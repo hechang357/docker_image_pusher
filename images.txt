@@ -6,4 +6,4 @@ kasmweb/nginx:1.25.3
 whyour/qinglong:2.17.7
 gdy666/lucky
 yangxiao6/stupidocr:main
-
+containrrr/watchtower
